@@ -10,5 +10,5 @@ A simple app that demonstrates a few different unit tests.
 6. Start adding Unit Tests!
 
 ## Other Notes
-The Test Explorer where you can run the tests might be hidden
+### Test Explorer is not visible
 Solution: In visual studio, click View from the upper menu and click on Test Explorer.
