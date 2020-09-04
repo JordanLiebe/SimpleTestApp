@@ -8,3 +8,7 @@ A simple app that demonstrates a few different unit tests.
 4. Right Click on Unit Test project and click "Add Reference" and check the box on your app project(s).
 5. Add a using statement in your test project(s) to reference your app project(s). Ex: using SimpleTestApp;
 6. Start adding Unit Tests!
+
+## Other Notes
+The Test Explorer where you can run the tests might be hidden
+Solution: In visual studio, click View from the upper menu and click on Test Explorer.
