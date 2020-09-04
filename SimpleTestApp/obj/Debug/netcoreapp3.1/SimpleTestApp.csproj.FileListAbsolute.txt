@@ -1,0 +1,13 @@
+C:\Users\Jordan.Liebe\Repos\SimpleTestApp\SimpleTestApp\bin\Debug\netcoreapp3.1\SimpleTestApp.exe
+C:\Users\Jordan.Liebe\Repos\SimpleTestApp\SimpleTestApp\bin\Debug\netcoreapp3.1\SimpleTestApp.deps.json
+C:\Users\Jordan.Liebe\Repos\SimpleTestApp\SimpleTestApp\bin\Debug\netcoreapp3.1\SimpleTestApp.runtimeconfig.json
+C:\Users\Jordan.Liebe\Repos\SimpleTestApp\SimpleTestApp\bin\Debug\netcoreapp3.1\SimpleTestApp.runtimeconfig.dev.json
+C:\Users\Jordan.Liebe\Repos\SimpleTestApp\SimpleTestApp\bin\Debug\netcoreapp3.1\SimpleTestApp.dll
+C:\Users\Jordan.Liebe\Repos\SimpleTestApp\SimpleTestApp\bin\Debug\netcoreapp3.1\SimpleTestApp.pdb
+C:\Users\Jordan.Liebe\Repos\SimpleTestApp\SimpleTestApp\obj\Debug\netcoreapp3.1\SimpleTestApp.csprojAssemblyReference.cache
+C:\Users\Jordan.Liebe\Repos\SimpleTestApp\SimpleTestApp\obj\Debug\netcoreapp3.1\SimpleTestApp.AssemblyInfoInputs.cache
+C:\Users\Jordan.Liebe\Repos\SimpleTestApp\SimpleTestApp\obj\Debug\netcoreapp3.1\SimpleTestApp.AssemblyInfo.cs
+C:\Users\Jordan.Liebe\Repos\SimpleTestApp\SimpleTestApp\obj\Debug\netcoreapp3.1\SimpleTestApp.csproj.CoreCompileInputs.cache
+C:\Users\Jordan.Liebe\Repos\SimpleTestApp\SimpleTestApp\obj\Debug\netcoreapp3.1\SimpleTestApp.dll
+C:\Users\Jordan.Liebe\Repos\SimpleTestApp\SimpleTestApp\obj\Debug\netcoreapp3.1\SimpleTestApp.pdb
+C:\Users\Jordan.Liebe\Repos\SimpleTestApp\SimpleTestApp\obj\Debug\netcoreapp3.1\SimpleTestApp.genruntimeconfig.cache
