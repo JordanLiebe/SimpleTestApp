@@ -1,7 +1,7 @@
 # SimpleTestApp
 A simple app that demonstrates a few different unit tests.
 
-#Setup
+# Setup
 1. Create New VS Project for App.
 2. Start Building App.
 3. Add MSUnit (Or other unit test project) to the solution.
